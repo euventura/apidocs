@@ -1,5 +1,5 @@
 
-# Laravel API Docs Generator
+# Laravel API Docs Generator (forked)
 
 This Laravel package provides an API Documentation generator based upon your Routes and Controller Method DocBlock comments.
 
